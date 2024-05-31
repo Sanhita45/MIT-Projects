@@ -67,6 +67,12 @@ ANN 	73%
 SVM 	72%
 DNN 	74.73%
 
+*Flask web app results:
+![image](https://github.com/Sanhita45/MIT-Projects/assets/141588588/f820b871-f145-4711-b020-4e2e8dfc6136)
+![image](https://github.com/Sanhita45/MIT-Projects/assets/141588588/0db9f9c6-1885-4c89-9f1f-9386a0e4f6f0)
+
+
+
 
 
 
