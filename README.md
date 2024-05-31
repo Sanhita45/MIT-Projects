@@ -7,8 +7,8 @@ Millions of people's lives are at risk of heart attack, particularly in developi
 
 *****************************************************************
 Project steps given below:
--Collected Heart Attack Dataset from Kaggle.
--Generated Synthetic data using Deep Learning Library (CTGan)
+-Collected Heart Attack Dataset from Mendely data.
+-Generated Synthetic data using Deep Learning Library (CTGan) as exsited data was not enought to feed neural network models. (CTGan)
 -Data Preprocessing (Conditional Column, Valid Data Types, correlation matrix)
 -Feature Selection by using Weka.
 -Evaluated four Deep Learning models for heart attack prediction: KNN, ANN, SVM, and DNN
