@@ -71,6 +71,14 @@ DNN 	74.73%
 ![image](https://github.com/Sanhita45/MIT-Projects/assets/141588588/f820b871-f145-4711-b020-4e2e8dfc6136)
 ![image](https://github.com/Sanhita45/MIT-Projects/assets/141588588/0db9f9c6-1885-4c89-9f1f-9386a0e4f6f0)
 
+![image](https://github.com/user-attachments/assets/c2597f0a-edd2-486f-a473-91ee70d448b3)
+![image](https://github.com/user-attachments/assets/b031b29b-5013-4369-a5a6-391038a31e15)
+
+Deployment of AWS EC2 instance
+![image](https://github.com/user-attachments/assets/0a884091-d82d-401c-b9f7-de1bf10d70d9)
+
+
+
 
 
 
