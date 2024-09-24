@@ -74,7 +74,7 @@ DNN 	74.73%
 ![image](https://github.com/user-attachments/assets/c2597f0a-edd2-486f-a473-91ee70d448b3)
 ![image](https://github.com/user-attachments/assets/b031b29b-5013-4369-a5a6-391038a31e15)
 
-Deployment of AWS EC2 instance
+Deployment of this App on AWS EC2 instance
 ![image](https://github.com/user-attachments/assets/0a884091-d82d-401c-b9f7-de1bf10d70d9)
 
 
