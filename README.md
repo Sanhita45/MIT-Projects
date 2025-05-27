@@ -1,4 +1,4 @@
-# Heart Attack Peridictor system using deep learning and traditional machine learning models.
+# Heart Attack Predictor system using deep learning and traditional machine learning models.
 An end-to-end solution for predicting heart attacks using Deep Learning and Flask web app.
 \
 \
